@@ -1,0 +1,32 @@
+# IDE and build directories
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# Logs
+*.log
+
+# Package directories
+packages/
+node_modules/
+
+# Publish outputs
+wwwroot/
+dist/
+
+# User-specific files
+*.db
+*.config
+*.local
+.env
+
+# Resharper
+*.DotSettings.user
